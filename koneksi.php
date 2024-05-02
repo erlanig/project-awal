@@ -1,6 +1,6 @@
 <?php
-$servername = 'localhost';
-$database = 'porto';
+$servername = 'localhost:3307';
+$database = 'db_porto';
 $username = 'root';
 $password = '';
 
